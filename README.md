@@ -1,9 +1,9 @@
-### Hi there 👋, I am Christopher P!
-#### I am GitHub Readme Generator's creator
+# Hi there 👋, I am Christopher P!
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: Python / MySQL / Microsoft Excel 
+## Skills and Experience
+* Python
+* MySQL
+* Microsoft Excel 
 
 - 🔭 I’m currently working on Landing a career as a Data Analyst | Data Scientist 
 - 📫 How to reach me: cp1204@utexas.edu 
