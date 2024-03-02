@@ -4,11 +4,14 @@
 
 
 <div align="center">
+<a href="mailto:cp1204@utexas.edu">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
 <a href="https://github.com/Chrispy1204" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/chrisp2024/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
@@ -17,8 +20,11 @@
 <h2 align="center">ABOUT ME</h2>
 
 
-- 🔭 I’m currently working on Landing a career as a Data Analyst | Data Scientist 
-- 📫 How to reach me: cp1204@utexas.edu 
+- Masters of Science in Operations Research and Industrial Engineering @University of Texas at Austin
+- Bachelor of Science in Industrial Engineering and Management @National Taipei University of Technology
+- Data Scientist Intern @Taelor AI
+- I play basketball 🏀
+- I play percussion insturments 🥁
 
 
 <hr/>
@@ -26,8 +32,9 @@
 <h2 align="center">SKILLSET</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres,azure,sklearn,tensorflow,vscode" />
+    <br>
+
 </div>
 
 <br/>
